@@ -1,6 +1,6 @@
 # On these tutorials the student has the first contact with the basic image processing used in astrophysics and also be able to build a CNN to classify images
 ## What are you going to learn in the first tutorial?
-- Explore fits images using astropy packages.
+- Explore fits images using astropy functions.
 - Identify extensions in a fits file.
 - Some ways to select galaxies from large datasets.
 - Create beautiful RGB images from different band observations.
